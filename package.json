@@ -1,5 +1,5 @@
 {
-  "name": "lottery_v2",
+  "name": "yes",
   "version": "0.1.0",
   "homepage": "https://innocent259.github.io/eth-lottery/",
   "private": true,
@@ -39,5 +39,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Innocent259/eth-lottery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Innocent259/eth-lottery/issues"
   }
 }
