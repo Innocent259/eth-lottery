@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/eth-lottery/static/css/main.8648913f.chunk.css",
+    "main.js": "/eth-lottery/static/js/main.8d0f3ba8.chunk.js",
+    "main.js.map": "/eth-lottery/static/js/main.8d0f3ba8.chunk.js.map",
+    "runtime-main.js": "/eth-lottery/static/js/runtime-main.af39f8a6.js",
+    "runtime-main.js.map": "/eth-lottery/static/js/runtime-main.af39f8a6.js.map",
+    "static/js/2.872920df.chunk.js": "/eth-lottery/static/js/2.872920df.chunk.js",
+    "static/js/2.872920df.chunk.js.map": "/eth-lottery/static/js/2.872920df.chunk.js.map",
+    "index.html": "/eth-lottery/index.html",
+    "static/css/main.8648913f.chunk.css.map": "/eth-lottery/static/css/main.8648913f.chunk.css.map",
+    "static/js/2.872920df.chunk.js.LICENSE.txt": "/eth-lottery/static/js/2.872920df.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/eth-lottery/static/media/wallpaper.8ae03a02.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af39f8a6.js",
+    "static/js/2.872920df.chunk.js",
+    "static/css/main.8648913f.chunk.css",
+    "static/js/main.8d0f3ba8.chunk.js"
+  ]
+}
