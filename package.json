@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "react-scripts build",
-    "deploy:frontend": "gh-pages -d build -r https://github.com/Innocent259/eth-lottery.git"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
